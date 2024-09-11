@@ -10,6 +10,10 @@ Step 4: Call the function areaOfTriangle and use arguments as your choice for th
 Step 5: Copy the code and paste it below.
 """
 
+def areOfTriangle():
+    print()
+    
+
 
 
 
